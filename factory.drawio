@@ -665,7 +665,7 @@
         <mxCell id="MRYTOznAEN-xfLHHoI4d-189" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Has" vertex="1">
           <mxGeometry height="80" width="80" x="1050" y="1171.39" as="geometry" />
         </mxCell>
-        <mxCell id="MRYTOznAEN-xfLHHoI4d-191" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Product/Level" vertex="1">
+        <mxCell id="MRYTOznAEN-xfLHHoI4d-191" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Product/Item&lt;div&gt;/Level&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="90" x="1045" y="1301.39" as="geometry" />
         </mxCell>
         <mxCell id="MRYTOznAEN-xfLHHoI4d-193" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;i&gt;&lt;b&gt;&lt;font face=&quot;Courier New&quot; style=&quot;color: light-dark(rgb(0, 0, 0), rgb(240, 255, 105));&quot;&gt;ProjectId&lt;/font&gt;&lt;/b&gt;&lt;/i&gt;" vertex="1">
